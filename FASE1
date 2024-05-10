@@ -1,0 +1,92 @@
+SETA
+
+ Cadastro de Usuário
+1. Front
+   - Criar uma página de cadastro
+   - Criar formulário de cadastro com campos de validação.
+   - Adicionar mensagem de confirmação após o cadastro.
+   - Botão de “entrar na minha conta”
+  
+2. Back
+   - Verificar duplicidade de email e CPF.
+   - Processar o cadastro do usuário.
+   - Implementar link no botão de “entrar na minha conta” para página de login
+
+Login de Usuário
+1. Front
+   - Criar uma página de login
+   - Adicionar funcionalidade para lembrar senha.
+   - Botão de “criar uma conta”
+   - Botão de “esqueci minha senha”
+
+2. Back
+   - Criar método de autenticação seguro.
+   - Implementar recuperação de senha por email.
+   - Implementar link no botão de “criar a senha” para página de cadastro
+
+Pesquisa de Serviços
+1. Front
+   - Integrar barra de pesquisa com resultados em tempo real.
+   - Adicionar filtros dinâmicos com opções de seleção múltipla.
+
+2. Back
+   - Desenvolver algoritmo de busca eficiente.
+   - Implementar filtros por categoria, preço e popularidade.
+
+Categoria de Serviços
+1. Front
+   - Criar menu lateral com animação suave.
+   - Adicionar ícones e nomes para cada categoria.
+
+2. Back
+   - Configurar categorias dinâmicas para futuras adições e remoções.
+   - Integrar categorias com os serviços cadastrados.
+
+Contrato de Serviços (Página Inicial)
+1. Front
+   - Exibir cards de serviços de forma atrativa e organizada.
+   - Adicionar botão de "Ver mais" para detalhes do serviço.
+
+2. Back
+   - Implementar algoritmo para exibir serviços mais relevantes primeiro.
+   - Integrar botões de ação com as funcionalidades correspondentes.
+
+Acesso/Análise de Perfil do Usuário
+1. Front
+   - Criar página de perfil com layout personalizável.
+   - Exibir lista de serviços do usuário com opções de edição e exclusão.
+   - Criar botão de acesso ao chat com usuário
+
+2. Back 
+  - Guardar e exibir informações do perfil.
+  - Permitir edição de informações pessoais e serviços oferecidos.
+ 
+Chat entre usuários
+1. Front
+  - Criar uma aba lateral direita com nome e foto de cada usuário 
+  - Um “X” para fechar essa aba
+
+2.Back 
+ - Armazenar mensagens enviadas
+
+Página do Serviço
+1. Front
+   - Criar página que pode ser personalizada 
+   - Exibir informações detalhadas do serviço em uma página única.
+   - Adicionar seção de avaliações e perguntas frequentes.
+
+2. Back
+   - Integrar seção de perguntas com funcionalidade de enviar novas perguntas.
+   - Implementar sistema de avaliação com comentários e classificação.
+
+Acesso a Configurações
+1. Front
+   - Criar página de configurações com abas organizadas.
+   - Adicionar opções para personalizar perfil e aparência do site, formas de pagamento e idioma.
+
+2. Back
+   - Implementar métodos para atualizar configurações do usuário.
+   - Criar sistema de anúncios para permitir que o usuário ofereça seus serviços.
+
+
+
